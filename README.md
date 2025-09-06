@@ -6,17 +6,17 @@ This project implements an Information Retrieval System using the Vector Space M
 It processes a small set of documents and retrieves the most relevant document(s) for a given user query.
 
 ⚙️ Features
-Preprocessing and vocabulary creation
-Term Frequency (TF) computation
-Inverse Document Frequency (IDF) calculation
-TF-IDF vector generation
-Cosine similarity computation
-Ranking documents by relevance
+Preprocessing and vocabulary creation,
+Term Frequency (TF) computation,
+Inverse Document Frequency (IDF) calculation,
+TF-IDF vector generation,
+Cosine similarity computation,
+Ranking documents by relevance.
 
 🧑‍💻 Tech Stack
-Python 3
-NumPy – numerical computations
-Pandas – tabular representation
+Python 3,
+NumPy – numerical computations,
+Pandas – tabular representation,
 Math library – log, sqrt, etc.
 
 🚀 How It Works
